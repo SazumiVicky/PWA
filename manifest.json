@@ -1,0 +1,27 @@
+{
+  "name": "Sazumi Viki",
+  "short_name": "Sazumi Viki",
+  "icons": [{
+    "src": "https://cdn.jsdelivr.net/gh/SazumiVicky/PWA@main/sazumiviki-180px.jpg",
+    "sizes": "180x180",
+    "type": "image/jpg",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/SazumiVicky/PWA@main/sazumiviki-192px.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/SazumiVicky/PWA@main/sazumiviki-512px.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg",
+    "purpose": "any maskable"
+  }],
+  "start_url": "/",
+  "display": "stAndalone",
+  "orientation" : "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "Get free themes with satisfying service only at Sazumi Themes"
+}
+
